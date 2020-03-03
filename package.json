@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/mgroff1/DDQ_BackEnd/issues"
   },
-  "homepage": "https://github.com/mgroff1/DDQ_BackEnd#readme",
+  "homepage": "https://https://ddqbe.herokuapp.com/",
   "devDependencies": {
     "cross-env": "^7.0.1",
     "jest": "^25.1.0",
